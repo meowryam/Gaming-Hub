@@ -14,9 +14,9 @@ The project combines multiple classic arcade games into a single application whe
 ## Screenshots
 <br />
 <p align="center">
-  <img src="assets/screenshots/brickbreaker.png" width="250">
-  <img src="assets/screenshots/pingpong.png" width="250">
-  <img src="assets/screenshots/snake.png" width="250">
+  <img src="assets/screenshots/brickbreak.output.png" width="250">
+  <img src="assets/screenshots/pong.output.png" width="250">
+  <img src="assets/screenshots/snake.output.png" width="250">
 </p>
 <br />
 ## Purpose

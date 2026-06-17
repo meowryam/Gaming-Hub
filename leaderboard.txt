@@ -1,3 +1,0 @@
-XSQD,Snake,160
-jfwe,BrickBreaker,70
-dqdew,BrickBreaker,40

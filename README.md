@@ -1,24 +1,26 @@
 #  Gaming Hub
-
 Gaming Hub is a C++ project built using **SFML 3.0**.
 
 The project combines multiple classic arcade games into a single application where players can choose a game from a central menu and keep track of their scores.
 
 ## Games Included
-
 - Ping Pong
 - Snake
 - Brick Breaker
 - Leaderboard
 
 ## Screenshots
+
 <br />
+
 <p align="center">
-  <img src="assets/screenshots/brickbreak.output.png" width="250">
-  <img src="assets/screenshots/pong.output.png" width="250">
-  <img src="assets/screenshots/snake.output.png" width="250">
+  <img src="assets/screenshots/brickbreak.output.png" width="250" style="margin: 0 8px;">
+  <img src="assets/screenshots/pong.output.png" width="250" style="margin: 0 8px;">
+  <img src="assets/screenshots/snake.output.png" width="250" style="margin: 0 8px;">
 </p>
+
 <br />
+
 ## Purpose
 
 This project was created to practice:

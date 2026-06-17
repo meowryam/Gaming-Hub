@@ -1,4 +1,4 @@
-# 🎮 Gaming Hub
+#  Gaming Hub
 
 Gaming Hub is a C++ project developed as part of a university assignment using **SFML 3.00**.
 
@@ -18,7 +18,7 @@ From the main menu, players can access:
 *  Leaderboard
 *  Exit
 
-##  Purpose
+## Purpose
 
 This project was created to practice:
 
@@ -27,23 +27,12 @@ This project was created to practice:
 * Graphics and user interaction with SFML
 * Organizing a larger C++ project into multiple modules
 
-## 🛠 Built With
+## Built With
 
 * C++
 * SFML 3.0
 
 SFML was used for rendering graphics, handling input, playing audio, and managing windows.
-
-## Project Structure
-
-```text id="hubstruct"
-Gaming-Hub/
-├── assets/
-├── include/
-├── src/
-├── .gitignore
-└── README.md
-```
 
 ## SFML Dependency
 
@@ -51,7 +40,7 @@ SFML is **not included** in this repository.
 
 To build and run the project, install **SFML 3.0** separately and configure it in your development environment.
 
-## 🎮 A Note
+## A Note
 
 Although this project started as a university assignment, it became a fun opportunity to experiment with game development, design a cute user interface, and bring multiple classic games together in one place.
 

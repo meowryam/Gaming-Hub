@@ -251,7 +251,7 @@ void Snake::spawnSpecialFood()
         if (specialFood == food) invalid = true;
     }
    
-    if (!specialFoodTex.loadFromFile("assets / images /food_bow.png"))   std::cout << "food_bow failed!\n";
+    if (!specialFoodTex.loadFromFile("assets/images/food_bow.png"))   std::cout << "food_bow failed!\n";
     specialFoodSprite.emplace(specialFoodTex);
     specialFoodSprite->setScale({ CELL_SIZE / (float)specialFoodTex.getSize().x, CELL_SIZE / (float)specialFoodTex.getSize().y });
     specialFoodSprite->setPosition({ specialFood.x * (float)CELL_SIZE, specialFood.y * (float)CELL_SIZE });

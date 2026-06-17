@@ -1,0 +1,5 @@
+XSQD,Snake,160
+jfwe,BrickBreaker,70
+dqdew,BrickBreaker,40
+fqcf,Snake,40
+mwf,BrickBreaker,30

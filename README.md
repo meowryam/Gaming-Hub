@@ -1,37 +1,42 @@
-# Gaming Hub
+# 🎮 Gaming Hub
 
-Gaming Hub is a collection of classic games built in C++ using SFML 3.0.
+Gaming Hub is a C++ project developed as part of a university assignment using **SFML 3.00**.
 
-The idea behind this project was simple: instead of creating a single game, I wanted to build a small arcade-style hub where multiple games could be accessed from one place. The result is a menu-driven application that lets players jump between different games, track scores through a leaderboard, and relive some classic gaming nostalgia.
+Instead of creating a single game, the project combines several classic arcade games into one application, allowing players to navigate through a central hub and choose what they want to play.
 
-## What's Inside?
+##  The Interface
 
-From the main menu, you can choose between:
+One of my favorite parts of this project is the interface.
 
-* 🏓 Ping Pong
-* 🐍 Snake
-* 🧱 Brick Breaker
-* 🏆 Leaderboard
-* 🚪 Exit
+The main menu features a playful, pookie design with background music playing throughout the hub (yes, it's the *Meow Meow* song). The goal was to make the project feel fun and welcoming rather than just another assignment.
 
-Each game is implemented separately and can be launched directly from the hub.
+From the main menu, players can access:
 
-## Why I Made This
+*  Ping Pong
+*  Snake
+*  Brick Breaker
+*  Leaderboard
+*  Exit
 
-This project was created as a way to practice game development concepts in C++, experiment with SFML, and improve my understanding of object-oriented programming.
+##  Purpose
 
-It also gave me experience organizing a larger project with multiple game states, menus, assets, and gameplay systems all working together.
+This project was created to practice:
 
-## Built With
+* Object-Oriented Programming concepts
+* Game loops and event handling
+* Graphics and user interaction with SFML
+* Organizing a larger C++ project into multiple modules
+
+## 🛠 Built With
 
 * C++
 * SFML 3.0
 
-SFML was used for graphics rendering, window management, user input, and other core game functionality.
+SFML was used for rendering graphics, handling input, playing audio, and managing windows.
 
 ## Project Structure
 
-```text
+```text id="hubstruct"
 Gaming-Hub/
 ├── assets/
 ├── include/
@@ -40,26 +45,14 @@ Gaming-Hub/
 └── README.md
 ```
 
-## Getting Started
+## SFML Dependency
 
-This repository does **not** include SFML.
+SFML is **not included** in this repository.
 
-To run the project, you'll need to install **SFML 3.0** and configure it in your IDE before building the project.
+To build and run the project, install **SFML 3.0** separately and configure it in your development environment.
 
-You can download SFML from:
+## 🎮 A Note
 
-https://www.sfml-dev.org/
+Although this project started as a university assignment, it became a fun opportunity to experiment with game development, design a cute user interface, and bring multiple classic games together in one place.
 
-## Future Improvements
-
-Some ideas I'd like to explore in the future:
-
-* Additional games
-* Better UI and animations
-* Sound effects and music
-* More detailed leaderboard system
-* Difficulty levels
-
-## Author
-
-Made by Maryam as part of my journey into game development and software engineering.
+Have fun, and don't let the cat soundtrack distract you from beating your high score.

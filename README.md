@@ -12,19 +12,13 @@ The project combines multiple classic arcade games into a single application whe
 - Leaderboard
 
 ## Screenshots
-
-### Brick Breaker
-
-![Brick Breaker](assets/screenshots/brickbreak.output.png)
-
-### Ping Pong
-
-![Ping Pong](assets/screenshots/pong.output.png)
-
-### Snake
-
-![Snake](assets/screenshots/snake.output.png)
-
+<br />
+<p align="center">
+  <img src="assets/screenshots/brickbreaker.png" width="250">
+  <img src="assets/screenshots/pingpong.png" width="250">
+  <img src="assets/screenshots/snake.png" width="250">
+</p>
+<br />
 ## Purpose
 
 This project was created to practice:

@@ -1,0 +1,10 @@
+XSQD,Snake,160
+Maryam,BrickBreaker,160
+jfwe,BrickBreaker,70
+gvse,BrickBreaker,60
+dqdew,BrickBreaker,40
+fqcf,Snake,40
+mwf,BrickBreaker,30
+maryam,Snake,30
+qifej2,BrickBreaker,30
+uigwd,BrickBreaker,20
